@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll_button">Roll Dice</string>
+    <string name="dice1">Dice 1</string>
+    <string name="dice2">Dice 2</string>
+    <string name="message_unlucky">Anda belum beruntung!</string>
+    <string name="message_lucky">Selamat Anda dapat dadu double!</string>
+</resources>
